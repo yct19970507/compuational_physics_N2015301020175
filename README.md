@@ -7,5 +7,5 @@
 
 [Exercise 04:chapter 2](https://github.com/yct19970507/compuational_physics_N2015301020175/blob/master/untitled0.2.10py.py)
 
-[Exercise 05:chapter 2](https://github.com/yct19970507/compuational_physics_N2015301020175/blob/master/untitled04.py)
+[Exercise 05:chapter 2.1](https://github.com/yct19970507/compuational_physics_N2015301020175/blob/master/untitled04.py)
 
