@@ -9,3 +9,5 @@
 
 [Exercise 05:chapter 2.1](https://github.com/yct19970507/compuational_physics_N2015301020175/blob/master/untitled04.py)
 
+[Exercise 06:3.13](https://github.com/yct19970507/compuational_physics_N2015301020175/blob/master/untitled3.13.py)
+
