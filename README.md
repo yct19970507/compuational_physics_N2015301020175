@@ -13,3 +13,5 @@
 
 [Exercise 07：3.19](https://github.com/yct19970507/compuational_physics_N2015301020175/blob/master/untitled3.19.py)
 
+[Exercise 08：期中](https://github.com/yct19970507/compuational_physics_N2015301020175/blob/master/untitle%E6%9C%9F%E4%B8%AD.py)
+
