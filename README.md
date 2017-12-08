@@ -17,3 +17,4 @@
 
 [Exercise 09;Chapter4](https://github.com/yct19970507/compuational_physics_N2015301020175/blob/master/untitledChapter4.py)
 
+[Exercise 10；5.53](https://github.com/yct19970507/compuational_physics_N2015301020175/blob/master/untitled5.53.py)
