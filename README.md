@@ -20,3 +20,5 @@
 [Exercise 10；5.53](https://github.com/yct19970507/compuational_physics_N2015301020175/blob/master/untitled5.53.py)
 
 [Exercise11](https://github.com/yct19970507/compuational_physics_N2015301020175/blob/master/untitledEx11.py)
+
+[Exercisefinal12](https://github.com/yct19970507/compuational_physics_N2015301020175/blob/master/untitledfinal.py)
